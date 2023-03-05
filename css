@@ -3,3 +3,10 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     font-size: 24px;
 }
+p{
+   padding:30 px;
+   margin: 12 px;
+   color: white;
+   height: 5 rem;
+   background-color: #8a7baa;
+}	
